@@ -1,4 +1,4 @@
-# toutiao_Spider-Ajax
+# 抓取今日头条街拍美图
 
 抓取索引页内容：利用requests请求目标站点，得到索引网页HTML代码，返回结果
 
